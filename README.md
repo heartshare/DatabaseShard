@@ -8,3 +8,5 @@ Moddify compose.yml and other files to suport PHPMyadmin and move the architectu
 
 ## Final Step
 Shard the database according to guide on Canvas.
+
+### Source Used For Maxscale: https://mariadb.com/resources/blog/schema-sharding-with-mariadb-maxscale-2-1-part-1/
